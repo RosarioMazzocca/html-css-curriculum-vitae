@@ -1,0 +1,46 @@
+<<<<<<< HEAD
+h2 {
+  color: coral;
+
+}
+hr {
+      height: 4px;
+      background-color: coral;
+      border: coral;
+}
+
+header {
+      background-color: gainsboro;
+   }
+header, body {
+      text-align:center;
+
+
+} 
+#primoblocco, #secondoblocco, #terzoblocco, #quartoblocco{
+                text-align: left;
+
+=======
+h2 {
+  color: coral;
+
+}
+hr {
+      height: 4px;
+      background-color: coral;
+      border: coral;
+}
+
+header {
+      background-color: gainsboro;
+   }
+header, body {
+      text-align:center;
+
+
+} 
+#primoblocco, #secondoblocco, #terzoblocco, #quartoblocco{
+                text-align: left;
+
+>>>>>>> 77243c19ac63ca60516045de2599c5fe87c791f6
+}
